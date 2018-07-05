@@ -2,8 +2,8 @@
 
 ## script file for creating a list of files and folder on a single go without use of multiple command
 
-
-`#!/bin/bash
+```
+#!/bin/bash
 # modifing permission and make it executable
 chmod +x websiteTemplate
 
@@ -16,4 +16,5 @@ touch ./website/css/{normalize.css,style.css}
 touch ./website/js/{custom.js,jquery.js,responsive.js}
 
 # it will create a list og files and folders
-`
+
+```
