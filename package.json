@@ -1,0 +1,31 @@
+{
+  "name": "macos-trick",
+  "version": "1.0.0",
+  "description": "essential macOS command line trick for web designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "./websiteTemplate"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yisxa/essential-macOS-Terminal-Trick.git"
+  },
+  "keywords": [
+    "web",
+    "site",
+    "template",
+    "for",
+    "creating",
+    "a",
+    "website"
+  ],
+  "author": "Bandhu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yisxa/essential-macOS-Terminal-Trick/issues"
+  },
+  "homepage": "https://github.com/yisxa/essential-macOS-Terminal-Trick#readme",
+  "dependencies": {
+    "json-dir-listing": "^0.2.1"
+  }
+}
