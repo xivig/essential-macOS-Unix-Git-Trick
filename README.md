@@ -18,3 +18,19 @@ touch ./website/js/{custom.js,jquery.js,responsive.js}
 # it will create a list og files and folders
 
 ```
+# Git Command
+
+##create a new repository on the command line
+
+`echo "# shellScriptingMacOS" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/yisxa/shellScriptingMacOS.git
+git push -u origin master`
+
+
+##push an existing repository from the command line
+
+`git remote add origin https://github.com/yisxa/shellScriptingMacOS.git
+git push -u origin master`
