@@ -35,5 +35,5 @@ else
             echo "I am Going to create a text file in your name"
         		echo "Hi ${USERNAME} ,your age is $AGE." >> ${USERNAME}.txt
         	fi
-        fi
-fi
+      fi
+  fi
